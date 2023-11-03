@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Imad-t
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Full stack web development 
-- 📫 How to reach me : imadeddineterraf@gmail.com
+- 👋 Hi, I’m @Imad Eddine Terraf, a frontend web developer
 
 <!---
 Imad-t/Imad-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
