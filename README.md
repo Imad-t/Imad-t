@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Imad Eddine Terraf, a frontend developer
+- 👋 Hi, I’m @Imad Eddine Terraf, a software developer
 
 <!---
 Imad-t/Imad-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
